@@ -1,0 +1,285 @@
+{
+  "_id": "",
+  "name": "Uman IT Space",
+  "lang": "uk",
+  "locale": "uk_UA",
+  "siteUrl": "https://uman-it-space.github.io",
+  "description": "Ready-made websites, GPT and online discoverability, launch support, and ongoing developer care for Uman businesses.",
+  "email": "hello@uman-it-space.github.io",
+  "phone": "+380 4744 000 000",
+  "address": "Uman, Cherkasy Oblast, Ukraine",
+  "mapHref": "https://example.com/uman-it-space/maps",
+  "region": "Uman",
+  "country": "Ukraine",
+  "logo": "logo.png",
+  "defaultSeo": {
+    "title": "Ready-made websites for Uman businesses | Uman IT Space",
+    "description": "Uman IT Space creates ready-made websites for Uman businesses, improves discoverability in GPT and online, and supports launch and monthly updates.",
+    "keywords": [
+      "Uman IT Space",
+      "Uman business websites",
+      "ready-made websites",
+      "small business website Uman",
+      "restaurant website Uman",
+      "hotel website Uman",
+      "tourism website Uman",
+      "GPT discoverability",
+      "online visibility"
+    ],
+    "author": "Uman IT Space",
+    "robots": "index, follow",
+    "image": "/assets/og-image.svg",
+    "type": "website",
+    "twitterCard": "summary_large_image"
+  },
+  "pageSeo": {
+    "/": {
+      "title": "Ready-made websites for Uman businesses | Uman IT Space",
+      "description": "Launch a polished business website for Uman with fast delivery, strong structure, GPT and search visibility, and ongoing developer support.",
+      "image": "/assets/og-image.svg"
+    },
+    "/our-work": {
+      "title": "Website examples for Uman businesses | Uman IT Space",
+      "description": "See sample website directions for cafes, restaurants, hotels, tourism services, shops, and local businesses built around clear content and SEO-ready structure.",
+      "image": "/assets/land.jpg"
+    },
+    "/our-team": {
+      "title": "Team behind Uman IT Space",
+      "description": "Meet the developers and operators behind Uman IT Space who build, launch, and support ready-made business websites.",
+      "image": "/assets/profile/honchar-denys.jpg"
+    },
+    "/merch": {
+      "title": "Brand merch and add-ons | Uman IT Space",
+      "description": "Browse Uman IT Space branded items and extra offer ideas presented with the same fast, content-first website structure.",
+      "robots": "noindex, follow",
+      "image": "/assets/logo.png"
+    },
+    "/cart": {
+      "title": "Cart | Uman IT Space",
+      "description": "Review selected merch items before checkout.",
+      "robots": "noindex, follow",
+      "image": "/assets/logo.png"
+    },
+    "/sales": {
+      "title": "Offers and launch packages | Uman IT Space",
+      "description": "Review launch offers, content update packages, and focused website improvements for local businesses in Uman.",
+      "image": "/assets/og-image.svg"
+    },
+    "/articles": {
+      "title": "Articles on SEO and discoverability | Uman IT Space",
+      "description": "Read practical articles on website structure, local SEO, GPT discoverability, and content decisions for small business websites.",
+      "image": "/assets/og-image.svg"
+    },
+    "/reviews": {
+      "title": "Client feedback and trust signals | Uman IT Space",
+      "description": "See reviews and trust-building proof points around the websites and launch support offered by Uman IT Space.",
+      "image": "/assets/og-image.svg"
+    },
+    "/events": {
+      "title": "Events and workshops | Uman IT Space",
+      "description": "Explore workshops, sessions, and business events focused on local websites, content structure, and online visibility.",
+      "image": "/assets/og-image.svg"
+    },
+    "/jobs": {
+      "title": "Jobs at Uman IT Space",
+      "description": "Open roles for content, frontend, and website delivery work focused on fast marketing sites for local businesses.",
+      "image": "/assets/og-image.svg"
+    },
+    "/faq": {
+      "title": "Frequently asked questions | Uman IT Space",
+      "description": "Find answers about ready-made websites, launch process, support model, and discoverability work for Uman businesses.",
+      "image": "/assets/og-image.svg"
+    },
+    "/faq/agent": {
+      "title": "Agent FAQ | Uman IT Space",
+      "description": "Internal agent FAQ for the Uman IT Space project.",
+      "robots": "noindex, follow"
+    },
+    "/faq/developer": {
+      "title": "Developer FAQ | Uman IT Space",
+      "description": "Internal developer FAQ for the Uman IT Space project.",
+      "robots": "noindex, follow"
+    },
+    "/navigation": {
+      "title": "Site navigation | Uman IT Space",
+      "description": "Quick access to the main pages of the Uman IT Space website.",
+      "robots": "noindex, follow",
+      "image": "/assets/logo.png"
+    },
+    "/socials": {
+      "title": "Contacts and social links | Uman IT Space",
+      "description": "Reach Uman IT Space through phone, email, messengers, listings, and social networks from one contact page.",
+      "image": "/assets/logo.png"
+    }
+  },
+  "structuredData": {
+    "type": "ProfessionalService",
+    "addressLocality": "Uman",
+    "addressRegion": "Cherkasy Oblast",
+    "addressCountry": "UA",
+    "areaServed": "Uman",
+    "serviceType": [
+      "Ready-made websites for businesses",
+      "Website launch setup",
+      "Monthly website support",
+      "GPT and online discoverability"
+    ],
+    "sameAs": [
+      "https://example.com/uman-it-space/instagram",
+      "https://example.com/uman-it-space/facebook",
+      "https://example.com/uman-it-space/linkedin"
+    ]
+  },
+  "info": {
+    "eyebrow": "Ready-made websites for Uman businesses",
+    "title": "Help your business stand out in Uman, on GPT, and online",
+    "lead": "We prepare a ready website solution, present it clearly, connect your business, and support it every month.",
+    "focus": "Uman businesses",
+    "highlights": [
+      "Ready solution",
+      "Fast launch",
+      "Monthly support",
+      "Built by real developers"
+    ],
+    "services": [
+      "Modern website",
+      "Mobile-ready pages",
+      "Visibility on GPT and online",
+      "Admin panel if needed",
+      "Multi-language support",
+      "Hosting and maintenance",
+      "Bug fixes within agreement",
+      "Future feature development"
+    ],
+    "businessCategories": [
+      {
+        "title": "Restaurants & cafes",
+        "description": "Menus, bookings, offers, delivery links, and a polished first impression."
+      },
+      {
+        "title": "Hotels & guest houses",
+        "description": "Rooms, booking paths, visitor information, location details, and trust signals for guests."
+      },
+      {
+        "title": "Tourism & local experiences",
+        "description": "Routes, attractions, offers, contact details, and clear content for visitors."
+      },
+      {
+        "title": "Shops & local brands",
+        "description": "Brand story, products, store details, and online trust for local buyers and guests."
+      },
+      {
+        "title": "Beauty & wellness",
+        "description": "Services, treatments, trust signals, and simple ways for clients to book."
+      },
+      {
+        "title": "Service businesses",
+        "description": "A strong fit for businesses that need a polished online presence without slow custom delivery."
+      }
+    ],
+    "benefits": [
+      "Uman-focused business approach",
+      "Ready-made launch model",
+      "Real developers behind the work",
+      "Clear support structure",
+      "Flexible paid improvements",
+      "Transferable project ownership"
+    ]
+  },
+  "socials": [
+    {
+      "label": "Instagram",
+      "value": "@umanitspace.demo",
+      "href": "https://example.com/uman-it-space/instagram",
+      "type": "instagram"
+    },
+    {
+      "label": "Facebook",
+      "value": "/umanitspace.demo",
+      "href": "https://example.com/uman-it-space/facebook",
+      "type": "facebook"
+    },
+    {
+      "label": "TikTok",
+      "value": "@umanitspace.demo",
+      "href": "https://example.com/uman-it-space/tiktok",
+      "type": "tiktok"
+    },
+    {
+      "label": "YouTube",
+      "value": "@umanitspace-demo",
+      "href": "https://example.com/uman-it-space/youtube",
+      "type": "youtube"
+    },
+    {
+      "label": "Threads",
+      "value": "@umanitspace.demo",
+      "href": "https://example.com/uman-it-space/threads",
+      "type": "threads"
+    },
+    {
+      "label": "X",
+      "value": "@umanit_space",
+      "href": "https://example.com/uman-it-space/x",
+      "type": "x"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "Uman IT Space Demo",
+      "href": "https://example.com/uman-it-space/linkedin",
+      "type": "linkedin"
+    },
+    {
+      "label": "Pinterest",
+      "value": "uman-it-space-demo",
+      "href": "https://example.com/uman-it-space/pinterest",
+      "type": "pinterest"
+    }
+  ],
+  "messengers": [
+    {
+      "label": "Telegram",
+      "value": "@umanitspace_demo",
+      "href": "https://example.com/uman-it-space/telegram",
+      "type": "telegram"
+    },
+    {
+      "label": "Viber",
+      "value": "+380 4744 000 000",
+      "href": "https://example.com/uman-it-space/viber",
+      "type": "viber"
+    },
+    {
+      "label": "WhatsApp",
+      "value": "+380 4744 000 000",
+      "href": "https://example.com/uman-it-space/whatsapp",
+      "type": "whatsapp"
+    }
+  ],
+  "listings": [
+    {
+      "label": "Google Business",
+      "value": "Uman IT Space Demo",
+      "href": "https://example.com/uman-it-space/google-business",
+      "type": "google-business"
+    },
+    {
+      "label": "Tripadvisor",
+      "value": "Uman IT Space Demo",
+      "href": "https://example.com/uman-it-space/tripadvisor",
+      "type": "tripadvisor"
+    },
+    {
+      "label": "Bolt Food",
+      "value": "Delivery",
+      "href": "https://example.com/uman-it-space/bolt-food",
+      "type": "bolt-food"
+    },
+    {
+      "label": "Glovo",
+      "value": "Delivery",
+      "href": "https://example.com/uman-it-space/glovo",
+      "type": "glovo"
+    }
+  ]
+}
